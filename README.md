@@ -10,5 +10,5 @@
  3. It then makes the user input the model
 ##### To display the list of cars
  It displays each car in the pattern year:make:model ordering the cars output by the oldest to newest cars.
-##### To quit'
+##### To quit
  It quits the program
