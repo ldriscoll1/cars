@@ -21,6 +21,7 @@ do
 			sort ~/bin/cars/My_old_cars;;
 
 		"3") echo
+			echo "Goodbye"
 			break;;
 	esac
 done
